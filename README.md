@@ -12,7 +12,7 @@ El libro identifica 23 patrones de diseño diferentes que abordan problemas comu
 
 Los patrones GoF proporcionan soluciones probadas y documentadas para problemas comunes de diseño de software. Al aplicar estos patrones, los desarrolladores pueden mejorar la modularidad, flexibilidad, reusabilidad y mantenibilidad de sus sistemas. Los patrones GoF se consideran una guía invaluable para desarrolladores y arquitectos de software, y han sido ampliamente adoptados en la industria del desarrollo de software.
 
-[Patrones-de-diseno-de-software.png](https://postimg.cc/7CbgysRH) 
+[![Patrones-de-diseno-de-software.png](https://i.postimg.cc/N0kbmZ7H/Patrones-de-diseno-de-software.png)](https://postimg.cc/7CbgysRH)
 
 # Tipos de pruébas de software en los patrones Gof
 
