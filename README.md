@@ -14,7 +14,7 @@ Los patrones GoF proporcionan soluciones probadas y documentadas para problemas 
 
 [![Patrones-de-diseno-de-software.png](https://i.postimg.cc/N0kbmZ7H/Patrones-de-diseno-de-software.png)](https://postimg.cc/7CbgysRH)
 
-# Tipos de pruébas de software en los patrones Gof
+# Tipos de pruébas de software en los patrones Gof  👨‍🔧
 
 Los patrones GoF (Gang of Four) no se refieren directamente a pruebas de software, sino que son un conjunto de patrones de diseño que proporcionan soluciones a problemas comunes en el desarrollo de software. Sin embargo, es importante mencionar que una vez que se implementan los patrones GoF en un sistema, se pueden realizar pruebas para verificar su correcto funcionamiento.
 
