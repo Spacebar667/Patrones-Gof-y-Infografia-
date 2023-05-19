@@ -1,5 +1,5 @@
 # Patrones-Gof-y-Infografia- 😄
-Aquí se encontraran dos trabajos los cuales muestran que son los patrones Gof y los tipos de pruebas que hay, también la infografia que habla de front end, back end y full stack. Daniel Cantor, Cristian Burgos
+Aquí se encontraran dos trabajos los cuales muestran que son los patrones Gof y los tipos de pruebas que hay, también la infografia que habla de front end, back end y full stack. Daniel Cantor 2220231039, Cristian Burgos 2220231069 
 
 # ¿Qué son los patrones Gof? 🤔
 
